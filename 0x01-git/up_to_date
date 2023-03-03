@@ -1,8 +1,1 @@
-Firstly I ensured I was in the master branch by running this command:
-	git checkout master
-
-Secondly I fetched the latest changes from the remote repository by running this command:
-	git fetch
-
-Finaly, I merged the changes from the remote master branch to my local master branch by running this command:
-	git merge origin/main
+git pull
